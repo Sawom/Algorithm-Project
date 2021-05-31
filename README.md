@@ -6,3 +6,8 @@ which can serve only one activity at a time.  <br>
 Each activity a i has a start time s(i) and a finish time f(i) , where 0 s(i) < f(i) < α.
 We have to select the maximum size subset of activities that are mutually compatible. Two activities are compatible if their intervals do not overlap. <br>
 Here we use <strong> Greedy Algorithm </strong>
+<br>
+
+![Screenshot (852)](https://user-images.githubusercontent.com/64780532/120160344-fb3c4700-c217-11eb-9656-8c4d053995c4.png)
+<br>
+
