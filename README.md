@@ -16,4 +16,4 @@ At first we input how many event we want to arrange. Here negetive number is an 
 After that we input start times and ending times from 0 to 23 because a day has 24 hours and our Conference Room is 24 hours open.
 After valid input this application suggest you the maximum size subset of activities that are mutually compatible.
 
-<h2> Thank You!  </h2>
+<h3> Thank You!  </h3>
