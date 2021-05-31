@@ -11,3 +11,9 @@ Here we use <strong> Greedy Algorithm </strong>
 ![Screenshot (852)](https://user-images.githubusercontent.com/64780532/120160344-fb3c4700-c217-11eb-9656-8c4d053995c4.png)
 <br>
 
+## Explanation
+At first we input how many event we want to arrange. Here negetive number is an invalid input. 
+After that we input start times and ending times from 0 to 23 because a day has 24 hours and our Conference Room is 24 hours open.
+After valid input this application suggest you the maximum size subset of activities that are mutually compatible.
+
+<h2> Thank You!  </h2>
